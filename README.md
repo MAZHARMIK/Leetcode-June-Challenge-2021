@@ -21,5 +21,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/june-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Max_Area_of_Island.cpp"><img src="https://clipground.com/images/islaender-clipart-19.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Interleaving String</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Interleaving_String.cpp"><img src="https://www.codebycase.com/assets/images/algorithms/interleaving-string.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
