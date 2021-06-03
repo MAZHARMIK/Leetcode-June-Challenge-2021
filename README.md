@@ -26,5 +26,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/june-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Interleaving_String.cpp"><img src="https://www.codebycase.com/assets/images/algorithms/interleaving-string.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Maximum_Area_of_a_Piece_of%20Cake_After_Horizontal_and_Vertical_Cuts.cpp"><img src="https://www.codebycase.com/assets/images/algorithms/interleaving-string.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
