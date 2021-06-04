@@ -31,5 +31,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/june-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Maximum_Area_of_a_Piece_of%20Cake_After_Horizontal_and_Vertical_Cuts.cpp"><img src="https://www.codebycase.com/assets/images/algorithms/interleaving-string.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Open the Lock</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Open_the_Lock.cpp"><img src="https://media.istockphoto.com/vectors/combination-lock-with-number-code-vector-id472345499?k=6&m=472345499&s=612x612&w=0&h=avnye70jtEcUmWyeqW4wJTSnhKsWVlBdtMcuFhAGA7s=" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
