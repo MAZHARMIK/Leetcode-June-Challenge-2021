@@ -41,5 +41,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/june-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Maximum_Performance_of_a_Team.cpp"><img src="https://comicvine1.cbsistatic.com/uploads/original/2/29361/4795542-avengers_group_aou.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Longest Consecutive Sequence</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/HashMap/Longest_Consecutive_Sequence.cpp"><img src="https://3.bp.blogspot.com/-23HB9WkZzys/VnCOX1jDqvI/AAAAAAAAG30/dyABPm0moHw/s400/HashMapHierarchy.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
