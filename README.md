@@ -52,6 +52,11 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/june-
 			  </td>
 			</tr>
 			<tr>
+			  <td>The Maze II</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/The%20Maze%20II.cpp"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d54f1118613045.562cc62f9c4a0.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
 			  <td>Construct Binary Tree from Preorder and Inorder Traversal</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.cpp"><img src="https://i1.faceprep.in/Companies-1/binary%20tree%20traversal.png" width="400" height="240"></a>
 			  </td>
