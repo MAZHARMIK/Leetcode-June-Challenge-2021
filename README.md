@@ -62,7 +62,7 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/june-
 			  </td>
 			</tr>
 			<tr>
-			  <td>Construct Binary Tree from Preorder and Inorder Traversal</td>
+			  <td>Jump Game VI</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Jump%20Game%20VI.cpp"><img src="https://static.vecteezy.com/system/resources/previews/000/299/392/original/wordcard-for-jump-with-girl-jumping-vector.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
