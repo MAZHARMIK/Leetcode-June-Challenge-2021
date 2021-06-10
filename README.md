@@ -66,5 +66,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/june-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Jump%20Game%20VI.cpp"><img src="https://static.vecteezy.com/system/resources/previews/000/299/392/original/wordcard-for-jump-with-girl-jumping-vector.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>My Calendar I</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/HashMap/My%20Calendar%20I.cpp"><img src="https://www.fotolip.com/wp-content/uploads/2016/05/Calendar-Template-1_thumb.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
