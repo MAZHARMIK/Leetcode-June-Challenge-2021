@@ -71,5 +71,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/june-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/HashMap/My%20Calendar%20I.cpp"><img src="https://www.fotolip.com/wp-content/uploads/2016/05/Calendar-Template-1_thumb.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Stone Game VII</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Game%20Strategy/Stone%20Game%20VII"><img src="https://cdn.shopify.com/s/files/1/1370/0869/products/bloodstone_1024x1024.jpg?v=1492892852" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
