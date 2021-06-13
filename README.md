@@ -81,5 +81,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/june-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Minimum%20Number%20of%20Refueling%20Stops.cpp"><img src="https://clipground.com/images/station-clipart-15.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Palindrome Pairs</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/HashMap/Palindrome%20Pairs.cpp"><img src="https://d1gug1ng40407.cloudfront.net/uploads/2015/10/tumblr_static_palindrome.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
