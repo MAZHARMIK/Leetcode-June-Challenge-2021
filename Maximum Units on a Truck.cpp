@@ -1,23 +1,27 @@
 class Solution {
 public:
-    int knapsack(vector<vector<int>>& boxTypes, int W, int n) {
-        if(n == 0 || W == 0)
-            return 0;
-        
-        int taken = 0;
-        if(boxTypes[n-1][0] > 0) {
-            taken    += boxTypes[n-1][1];
-            vector<vector<int>> boxTypesTemp = boxTypes;
-            boxTypesTemp[n-1][0] -= 1;
-            taken += knapsack(boxTypesTemp, W-boxTypes[n-1][0], n);
-        }
-        int notTaken = knapsack(boxTypes, W, n-1);
-        
-        return max(taken, notTaken);
-    }
     int maximumUnits(vector<vector<int>>& boxTypes, int truckSize) {
-        int n = boxTypes.size();
         
-        return knapsack(boxTypes, truckSize, n);
+        auto lambda = [&](vector<int>& v1, vector<int>& v2) {
+            return v1[1] > v2[1];
+        };
+        
+        sort(begin(boxTypes), end(boxTypes), lambda);
+        int n = boxTypes.size();
+        int units = 0;
+        
+        for(int i = 0; i<n; i++) {
+            int boxCount     = boxTypes[i][0];
+            int unitsPerBox  = boxTypes[i][1];
+            
+            int freq   = min(truckSize, boxCount);
+            truckSize -= freq;
+            units     += (unitsPerBox*freq);
+
+            if(truckSize == 0)
+                break;
+        }
+        
+        return units;
     }
 };
