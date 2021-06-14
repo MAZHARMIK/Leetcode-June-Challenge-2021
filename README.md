@@ -86,5 +86,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/june-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/HashMap/Palindrome%20Pairs.cpp"><img src="https://d1gug1ng40407.cloudfront.net/uploads/2015/10/tumblr_static_palindrome.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Maximum Units on a Truck</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-June-Challenge-2021/blob/main/Maximum%20Units%20on%20a%20Truck.cpp"><img src="https://media.istockphoto.com/vectors/warehouse-illustration-of-loader-truck-loading-cardboard-boxes-vector-id681078402?k=6&m=681078402&s=612x612&w=0&h=k5CMKQqR9klAfj3f3-nmD0yjFPZDkI15J9sqVP-Mr0k=" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
