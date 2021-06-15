@@ -92,6 +92,11 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/june-
 			  </td>
 			</tr>
 			<tr>
+			  <td>Shortest Distance to Target Color</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Binary%20Search/Shortest%20Distance%20to%20Target%20Color.cpp"><img src="https://www.topcoder.com/wp-content/uploads/2017/07/binary-search.png" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
 			  <td>Matchsticks to Square</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Matchsticks%20to%20Square.cpp"><img src="https://i.ytimg.com/vi/noZlqnSH3NY/maxresdefault.jpg" width="400" height="240"></a>
 			  </td>
