@@ -101,5 +101,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/june-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Matchsticks%20to%20Square.cpp"><img src="https://i.ytimg.com/vi/noZlqnSH3NY/maxresdefault.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Generate Parentheses</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Generate%20Parentheses%20(O(2%5En))"><img src="https://i.ytimg.com/vi/s9fokUqJ76A/maxresdefault.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
