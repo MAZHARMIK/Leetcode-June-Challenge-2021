@@ -111,5 +111,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/june-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Sliding%20Window/Number%20of%20Subarrays%20with%20Bounded%20Maximum.cpp"><img src="http://i0.wp.com/www.learn4master.com/wp-content/uploads/2016/09/sliding3.png?fit=1045%2C390" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Range Sum Query Mutable</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Segment%20Tree/Range_Sum_Query_Mutable.cpp"><img src="https://longrm.com/images/algorithm/SegmentTree_1.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
