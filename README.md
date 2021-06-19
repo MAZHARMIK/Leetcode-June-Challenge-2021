@@ -116,5 +116,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/june-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Segment%20Tree/Range_Sum_Query_Mutable.cpp"><img src="https://longrm.com/images/algorithm/SegmentTree_1.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>K Inverse Pairs Array</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/K%20Inverse%20Pairs%20Array.cpp"><img src="https://zalu.be/wp-content/uploads/2012/07/Inversion_logo_final_black.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
