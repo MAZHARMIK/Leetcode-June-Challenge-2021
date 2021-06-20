@@ -121,5 +121,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/june-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/K%20Inverse%20Pairs%20Array.cpp"><img src="https://zalu.be/wp-content/uploads/2012/07/Inversion_logo_final_black.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Swim in Rising Water</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Swim%20in%20Rising%20Water.cpp"><img src="https://clipground.com/images/swimming-phase-clipart-3.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
