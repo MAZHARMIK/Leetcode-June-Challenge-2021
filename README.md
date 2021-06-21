@@ -126,5 +126,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/june-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Swim%20in%20Rising%20Water.cpp"><img src="https://clipground.com/images/swimming-phase-clipart-3.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Pascal's Triangle</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Pascal's%20Triangle.cpp"><img src="https://images.fineartamerica.com/images-medium-large-5/pascals-triangle-science-photo-library.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
