@@ -131,5 +131,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/june-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Pascal's%20Triangle.cpp"><img src="https://images.fineartamerica.com/images-medium-large-5/pascals-triangle-science-photo-library.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Number of Matching Subsequences</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/HashMap/Number%20of%20Matching%20Subsequences.cpp"><img src="https://geekstocode.com/wp-content/uploads/2020/05/Annotation-2020-05-04-165558.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
