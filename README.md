@@ -141,5 +141,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/june-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/HashMap/Number%20of%20Matching%20Subsequences.cpp"><img src="https://geekstocode.com/wp-content/uploads/2020/05/Annotation-2020-05-04-165558.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Reverse Linked List II</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Linked%20List/Reverse%20Linked%20List%20II.cpp"><img src="https://www.geeksforgeeks.org/wp-content/uploads/gq/2013/03/Linkedlist.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
