@@ -151,5 +151,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/june-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Out%20of%20Boundary%20Paths.cpp"><img src="https://cheaphotels4uk.com/wp-content/uploads/2017/01/football-player-stadium.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Out of Boundary Paths</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Redundant%20Connection.cpp"><img src="https://www.javatpoint.com/ds/images/graph-definition.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
