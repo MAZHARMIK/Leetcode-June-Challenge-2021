@@ -156,5 +156,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/june-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Redundant%20Connection.cpp"><img src="https://www.javatpoint.com/ds/images/graph-definition.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Candy</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Candy.cpp"><img src="https://camo.githubusercontent.com/ec0a7105090f189be8f38dc257675c1b729b7e2b33c7e55d463a9e5bcc017dd5/68747470733a2f2f3336357073642e636f6d2f696d616765732f6973746f636b2f70726576696577732f313638372f31363837353132352d6772656564792d6d616e2d686f6c64696e672d6d6f6e65792e6a7067" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
