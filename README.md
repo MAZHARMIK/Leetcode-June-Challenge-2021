@@ -162,7 +162,7 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/june-
 			  </td>
 			</tr>
 			<tr>
-			  <td>Candy</td>
+			  <td>Remove All Adjacent Duplicates In String</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Stack/Remove%20All%20Adjacent%20Duplicates%20In%20String.cpp"><img src="https://androidcommunity.com/wp-content/uploads/2016/02/featured-stack.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
