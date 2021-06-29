@@ -171,5 +171,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/june-
         <td><a href="https://github.com/MAZHARMIK/Leetcode-June-Challenge-2021/blob/main/Armstrong%20Number.cpp"><img src="https://i.ytimg.com/vi/OvANihsVDI8/maxresdefault.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Max Consecutive Ones III</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Max%20Consecutive%20Ones%20III.cpp"><img src="https://miro.medium.com/max/4324/1*mQJiROyKoPVSi_459LbXMA.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
