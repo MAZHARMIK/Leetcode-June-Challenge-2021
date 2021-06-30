@@ -176,5 +176,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/june-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Max%20Consecutive%20Ones%20III.cpp"><img src="https://miro.medium.com/max/4324/1*mQJiROyKoPVSi_459LbXMA.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Lowest Common Ancestor in a Binary Tree</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Lowest%20Common%20Ancestor%20in%20a%20Binary%20Tree"><img src="https://www.netclipart.com/pp/f/14-142927_tree-png-transparent-clip-art-image-free-download.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
